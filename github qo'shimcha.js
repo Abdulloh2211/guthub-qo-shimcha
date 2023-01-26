@@ -10,4 +10,4 @@
 // bizda stack bor va heap bor -bular ikkalasi biz yozgan js kodlariga aloqadirdir .Endi shunda agar biz ikkita bir xil primitivelardi solishtirsak unda true chiqadi va ikkita bir xil non-primitive lardi solishtirsak false beradi chunki 
 // primlar pass by value non-primlar esa pass by reference ,chunki bu bazada save bo'lyap turganda value srazu qatorma qator chiqarib beradi 
 // lekin non-primlar esa bizga link yaratib beradi va solishtirib turganda ikkita qiymat ikkalsi ham boshqa link bo'lgani uchun false beradi yana linklar hech qachon bir-biriga to'g'ri kelmaydi.
- rem
+ 
